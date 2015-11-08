@@ -1,3 +1,10 @@
+#Completed Assignment
+
+The 8 required R scripts and png files have been added to the repo
+
+The original plots are in the figures folder, and the original 
+README instructions are below.
+
 ## Introduction
 
 This assignment uses data from
